@@ -1,8 +1,6 @@
-# ***Just use http://ip8.com***
-#
 
 <p align="center">
-<a href="#"><img title="Host" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/trackip.png"></a>
+<a href="#"><img title="Host" src=""></a>
 </p>
 <p align="center">
 <a href="https://github.com/N1C0H4CK/IP-TRACK/"><img title="N1C0H4CK" src=""></a>
@@ -37,6 +35,6 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/N1C0H4CK)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://github.com/N1C0H4CK)
-[![Web](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](www.n1c0h4ck.com)
+[![Github](https://)](https://github.com/N1C0H4CK)
+[![Instagram](https://img.shields.io)](https://github.com/N1C0H4CK)
+[![Web](https://img.shields.io)](www.n1c0h4ck.com)
