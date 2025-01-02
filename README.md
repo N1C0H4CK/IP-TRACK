@@ -19,10 +19,10 @@
 
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/htr-tech/track-ip.git`
-* `cd track-ip`
+* `git clone git://github.com/N1C0H4CK/IP-TRACK.git`
+* `cd IP-TRACK`
 
-#### > Run : `bash trackip`
+#### > Run : `bash IP-TRACK`
 
 ## Single Command :
 ```
